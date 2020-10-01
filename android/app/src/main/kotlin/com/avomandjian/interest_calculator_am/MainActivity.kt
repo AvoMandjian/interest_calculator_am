@@ -1,0 +1,6 @@
+package com.avomandjian.interest_calculator_am
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
